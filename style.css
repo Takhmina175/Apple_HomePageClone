@@ -1,0 +1,121 @@
+body{
+    margin: 0 auto;
+    font: 12px/18px'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.backgroundImgAndText{
+    margin:0 auto;
+    height: 502px;
+    background-image: url("images/your_verse_hero.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+header{
+    text-align: center;
+    color: white;
+    line-height: 18px;
+    font-style: normal;
+    font-family: 'Cormorant Garamond', serif;
+}
+header h2{
+    font-size: 35px;
+    line-height: 35px; 
+}
+header h1{
+    font-size: 60px;
+    line-height: 36px;
+    font-weight: normal;
+}
+header h3{
+    font-size: 25px;
+}
+
+.box{
+    margin: 5% auto;
+    width: 103px;
+    height: 37px;
+    background-image: linear-gradient(#737373 50%, #8a8a8a 50%);
+    border-right: 2px solid #909090;
+}
+.container{
+    margin-left:10%;
+    margin-right: 10%;
+    display: inline-flex;
+}
+.boxForm{
+    width: 120px;
+    height: 37px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+nav a{
+    float: left;
+    text-align: center;
+    padding: 7px 30px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+}
+.title{
+    width: 980px;
+    height: 84px;
+}
+.boxRadius{
+    border-radius: 5px 0px 0px 5px; 
+}
+
+.fa-search{
+    position: relative;
+    bottom: 15px;
+    right: 40px;
+}
+.search_bar{
+    background-color: transparent;
+    border-radius: 10px;
+    width: 103px;
+    height: 15px;
+    border-color: #818181;
+    border-width: 2px;
+    position: relative;
+    top: 5px;
+    left: 2px;
+}
+
+input:focus {
+    background-color: white;
+  }
+
+.iPhoneTypes{
+    display: flex;
+    gap: 2px;
+    margin-top: 1px;
+}
+
+.appleShop{
+    float: left;
+}
+footer{
+    color: #6e6e80;
+    font-size: 10px;
+    padding-left: 15%;
+    padding-right: 10%;
+}
+.floatRight{
+    word-spacing: 2px;
+    float: right;
+}
+.copyright{
+    clear: both;
+}
+span{
+    color: #0088cc;
+}
+.playbuttn{
+    display: inline-flex;
+    gap: 5px;
+}
+.playButton{
+    height: 30px;
+    position: relative;
+    top: 22px;
+}
