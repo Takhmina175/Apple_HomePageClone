@@ -1,18 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Apple Home Page Clone
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](images/Capture.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
 
 ## Live Demo
 
