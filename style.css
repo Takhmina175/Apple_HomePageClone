@@ -1,0 +1,173 @@
+header {
+  background: url(images/your_verse_hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-origin: border-box;
+  background-position: center bottom;
+  height: 520px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.p-relative {
+  position: relative;
+}
+
+.headerText {
+  line-height: 18px;
+  font-style: normal;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.f-weight {
+  font-weight: 400;
+}
+
+.headerText h2 {
+  font-size: 35px;
+  line-height: 35px;
+}
+
+.headerText h1 {
+  font-size: 60px;
+  line-height: 36px;
+  font-weight: 500;
+}
+
+.headerText h3 {
+  font-size: 30px;
+}
+
+.container {
+  align-items: center;
+}
+
+.textColor {
+  color: white;
+}
+
+.txt-decoration {
+  text-decoration: none;
+}
+
+.box {
+  margin: 7% auto;
+  width: 123px;
+  height: 54px;
+  background-image: linear-gradient(#737373 50%, #8a8a8a 50%);
+  border-right: 2px solid #909090;
+}
+
+nav a {
+  font-family: 'Cormorant Garamond', serif;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.navbar {
+  display: flex;
+}
+
+.boxForm {
+  width: 150px;
+  height: 54px;
+  border-radius: 0 5px 5px 0;
+  margin-top: 70px;
+}
+
+.title1 {
+  width: 980px;
+  height: 84px;
+}
+
+.boxRadius {
+  border-radius: 7px 0 0 7px;
+}
+
+.fa-search {
+  bottom: 15px;
+  right: 121px;
+  top: 10px;
+}
+
+.search_bar {
+  background-color: transparent;
+  border-radius: 10px;
+  width: 122px;
+  height: 26px;
+  border-color: #818181;
+  border-width: 2px;
+  top: 10px;
+  left: 2px;
+}
+
+input:focus {
+  background-color: white;
+}
+
+.logo {
+  margin-top: 14px;
+}
+
+.iPhoneTypes {
+  gap: 50px;
+}
+
+.margin-auto {
+  margin: 0 auto;
+}
+
+footer {
+  font-size: 11px;
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer a {
+  text-decoration: none;
+  color: #08c;
+}
+
+.ft-link-color {
+  color: #6e6e80;
+}
+
+.wrap {
+  gap: 43px;
+}
+
+.floatRight {
+  word-spacing: 2px;
+}
+
+span {
+  color: #08c;
+}
+
+.playbuttn {
+  display: inline-flex;
+  gap: 5px;
+}
+
+.playButton {
+  height: 30px;
+  top: 22px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.bottomMargin {
+  bottom: 15px;
+}
