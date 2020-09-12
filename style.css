@@ -5,7 +5,6 @@ header {
   background-origin: border-box;
   background-position: center bottom;
   height: 520px;
-  width: 100%;
 }
 
 .align-center {
@@ -120,10 +119,6 @@ input:focus {
   gap: 50px;
 }
 
-.phone {
-  min-width: 423px;
-}
-
 .margin-auto {
   margin: 0 auto;
 }
@@ -132,6 +127,11 @@ footer {
   font-size: 11px;
   background-color: white;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+footer a {
+  text-decoration: none;
+  color: #08c;
 }
 
 .ft-link-color {
