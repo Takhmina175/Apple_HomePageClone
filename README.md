@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Takhmina175/Apple_HomePageClone/Apple_web_page_clone/index.html)
+[Live Demo Link](https://takhmina175.github.io/Apple_HomePageClone/)
 
 ## Authors
 
